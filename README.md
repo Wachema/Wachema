@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Python and web design
 - 💞️ I’m looking to collaborate on ...Machine learning projects
 - 📫 How to reach me ...@waru_charles on Twitter and waru.ces@gmail.com
+""" Lets code it"""
 
 <!---
 Wachema/Wachema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
