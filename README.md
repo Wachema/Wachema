@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Waru Charles Emmanuel, a graduate student doing a major in Biomedical Engineering at Politecnico di Milano in Italy
-- 👀 I’m interested in ...Python for machine learning and artificial intelligence
-- 💞️ I’m looking to collaborate on ...Machine learning projects
+- 👀 I’m interested in ...
+- 💞️ I’m looking to collaborate on ...
 """ Lets code it"""
 
 <!---
